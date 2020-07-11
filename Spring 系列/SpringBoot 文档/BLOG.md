@@ -1,7 +1,16 @@
 {
-    "name": "SpringMVC.md",
+    "name": "SpringBoot.md",
     "desc": "blog 文档",
-    "code": "SpringMVC",
-    "type": "Collection",
-    "status": "open"
+    "code": "SpringBoot",
+    "classType": "Collection",
+    "type": "SpringBoot",
+    "status": "open",
+    "item": {
+        "SpringBoot SpringApplication笔记": {
+            "name": "SpringBoot SpringApplication笔记",
+            "desc": "SpringBoot SpringApplication笔记",
+            "classType": "MARKDOWN",
+            "status": "update"
+        }
+    }
 }

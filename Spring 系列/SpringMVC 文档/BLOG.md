@@ -2,20 +2,21 @@
     "name": "SpringMVC.md",
     "desc": "blog 文档",
     "code": "SpringMVC",
-    "type": "Collection",
+    "classType": "Collection",
+    "type": "SpringMVC",
     "status": "open",
     "item": {
         "SpringMVC 源码": {
             "name": "SpringMVC 源码",
             "desc": "SpringMVC 源码",
-            "type": "Doc",
+            "classType": "MARKDOWN",
             "status": "update"
         },
         "SpringMVC handlerMapping": {
             "name": "SpringMVC handlerMapping",
             "desc": "SpringMVC handlerMapping",
-            "type": "Doc",
+            "classType": "MARKDOWN",
             "status": "update"
         }
-    },
+    }
 }
