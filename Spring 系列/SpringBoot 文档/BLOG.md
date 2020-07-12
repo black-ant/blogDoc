@@ -1,5 +1,5 @@
 {
-    "name": "SpringBoot.md",
+    "name": "SpringBoot 文档",
     "desc": "blog 文档",
     "code": "SpringBoot",
     "classType": "Collection",
@@ -11,6 +11,12 @@
             "desc": "SpringBoot SpringApplication笔记",
             "classType": "MARKDOWN",
             "status": "update"
+        },"Springboot BeanDefinitionLoader": {
+            "name": "Springboot BeanDefinitionLoader",
+            "desc": "Springboot BeanDefinitionLoader",
+            "classType": "MARKDOWN",
+            "status": "update"
         }
-    }
+
+​    }
 }

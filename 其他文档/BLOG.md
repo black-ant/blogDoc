@@ -5,7 +5,7 @@
     "classType": "Collection",
     "status": "open",
     "item": {
-        "Git 规范及开发流程": {
+        "Git规范及开发流程": {
             "name": "Git 规范及开发流程",
             "desc": "Git 规范及开发流程",
             "classType": "Doc",
@@ -17,5 +17,6 @@
             "classType": "Doc",
             "status": "update"
         }
-    },
+    }
 }
+

@@ -1,5 +1,5 @@
 {
-    "name": "SpringMVC.md",
+    "name": "SpringMVC 文档",
     "desc": "blog 文档",
     "code": "SpringMVC",
     "classType": "Collection",
