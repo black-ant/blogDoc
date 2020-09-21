@@ -1,6 +1,1 @@
-{
-    "name": "blog 文档",
-    "desc": "blog 文档",
-    "type": "PROJECT",
-    "status": "open"
-}
+{"item":{"博客前言":{"name":"博客前言","classType":"Doc","desc":"# 博客前言  还在读大学的时候 , 就一直想着要建一个自己的博客网站 , 但是人的惰性一次次的将这个时间延期 ,  直到今年 , 决定一定要把这个网站搭起来 ,  发一些自己的笔记 ,发一下自己的想法 .  博客中的笔记有很多特殊字符 , 为了让源码显得更加立体 , 所以自己慢慢琢磨出一套 , 有点小用 , 以下是特殊字符对应的含义.  ## 关键字  ``` Welcome ","status":"update"}},"code":"OTHER","name":"COLLECTION","type":"PROJECT","classType":"COLLECTION","desc":"blog 文档","status":"open"}

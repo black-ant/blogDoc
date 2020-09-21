@@ -1,6 +1,6 @@
 # SpringBoot SpringApplication笔记
 
-
+> 该文档包含 Springboot SpringApplication 的源码逻辑 , 可用通过该文档快速了解 Springboot SpringApplication 的流程及后续复习
 
 [TOC]
 
