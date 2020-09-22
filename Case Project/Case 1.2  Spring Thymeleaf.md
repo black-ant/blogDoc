@@ -1,5 +1,9 @@
 # Case 1.2  Spring Thymeleaf
 
+> 该文档包含 Spring Thymeleaf 的使用方式
+
+
+
 ## 一 . 代码 Demo
 
 
