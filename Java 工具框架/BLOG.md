@@ -1,1 +1,0 @@
-{"item":{"Maven 笔记总结":{"name":"Maven 笔记总结","classType":"Doc","desc":"# Maven  []    ## 基础知识  ### 常用命令  ```java > 打包 // mvn clean install -Dmaven.test.skip=true -Dmaven.javadoc.skip=true // clean install -Dmaven.javadoc.skip=true // 跳过 mvn [target] -Dch","status":"update"}},"code":"OTHER","name":"OPEN","classType":"COLLECTION","desc":"Java 工具框架","status":"OPEN"}
