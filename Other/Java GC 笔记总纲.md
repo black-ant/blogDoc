@@ -310,9 +310,9 @@ Garbage First (G1) GC
 
 ```
 
-<img src="C:\Users\10169\OneDrive\笔记文档\图片文件\虚拟机\02.png" style="zoom:200%;" />
+<img src="https://img-blog.csdnimg.cn/20200922230828529.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p6ZzE5OTUwODI0,size_16,color_FFFFFF,t_70#pic_center" style="zoom:200%;" />
 
-<img src="C:\Users\10169\OneDrive\笔记文档\图片文件\虚拟机\03.png" style="zoom:200%;" />
+<img src="https://img-blog.csdnimg.cn/20200922230833401.png#pic_center" style="zoom:200%;" />
 
 ### 4 . 2 内存布局
 
