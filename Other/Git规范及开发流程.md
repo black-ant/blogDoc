@@ -203,7 +203,7 @@ Git 变基的关键是 merge 和 rebase 命令 ，我们假设有2条线
  |-> 回退到上上版本 ---  git reset --hard HEAD^^
  |-> 回退到指定次数版本 --- git reset --hard HEAD~20
  |-> 解除与远程的关系 --- git remote remove gitlab
- |-> 添加额外的远程仓库 --- git remote add gitlab http://gitlab.paraview.cn/zengzg-example/case.git
+ |-> 添加额外的远程仓库 --- git remote add gitee https://gitee.com/antblack/blog-doc.git
  |-> 修改用户名 --- git config  --global user.name 你的目标用户名；
  |-> 修改用户邮箱 --- git config  --global user.email 你的目标邮箱名;
  |-> 修改当前项目用户名 --- git config user.name 你的目标用户名;
@@ -287,6 +287,34 @@ Git 变基的关键是 merge 和 rebase 命令 ，我们假设有2条线
 ```
 git pull origin master --allow-unrelated-histories
 ```
+
+
+
+### 附录四 : 代理操作
+
+```
+// 使用代理
+git config --global http.proxy http://204.44.66.81:8388    
+git config --global http.proxy 'socks5://127.0.0.1:1080'
+git config https.proxy 'socks5://127.0.0.1:1080'
+git config http.proxy 'socks4://127.0.0.1:1080'
+    
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+git config --global --unset http.https://github.com.proxy
+
+    
+git config --unset http.proxy
+git config --unset https.proxy
+    
+https://blog.woomai.net/tech/214
+https://zhuanlan.zhihu.com/p/113454460
+https://www.xiaobaibk.com/xiao-bai-395.html
+```
+
+
+
+
 
 参考文档 ：
 
